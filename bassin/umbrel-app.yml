@@ -1,7 +1,7 @@
 manifestVersion: 1.1
 version: "2.1.0-hotfix"
-id: bassin
-name: Bassin
+id: pupapool
+name: PupaPool
 tagline: Solo Bitcoin Mining Pool (ckPool)
 description: >-
   A zero-fee Bitcoin solo mining pool for Umbrel. Run your own ckPool at home.
@@ -26,8 +26,8 @@ releaseNotes: >-
 
   A security issue was discovered with the previous ckpool software used by this app. It has been replaced with a new version built from a verified source: https://github.com/getumbrel/docker-ckpool-solo
 port: 5008
-submitter: duckaxe
-developer: duckaxe
+submitter: galluz
+developer: galluz
 website: https://github.com/duckaxe
 repo: https://github.com/duckaxe/bassin
 support: https://github.com/duckaxe/bassin/issues
